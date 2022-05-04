@@ -1,4 +1,5 @@
 # soudoku2
-
-
-![shinshin](https://user-images.githubusercontent.com/100312857/166728692-e5373b39-efd6-47ff-aed3-2c87f7387502.png)
+with sudoku solver
+![sudoku1](https://user-images.githubusercontent.com/100312857/166812027-a71e4d8c-bab7-488b-a73a-b3c61055ceaa.png)
+after solve
+![sudoku](https://user-images.githubusercontent.com/100312857/166812223-157fe137-7a4f-4f83-a1fc-733d9a260296.png)
